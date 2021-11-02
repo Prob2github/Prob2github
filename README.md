@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Prob2github
 - 👀 I’m interested in Termux
 - 🌱 I’m currently learning bash
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Prob2github/Prob2github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
