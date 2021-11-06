@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prob2github
-- 👀 I’m interested in Termux
+- 👀 I’m interested in Termux on Android
 - 🌱 I’m currently learning bash
 
 <!---
